@@ -1,0 +1,10 @@
+{
+  "name": "binary-search-trees",
+  "version": "1.0.0",
+  "description": "Binary Search Tree project for The Odin Project",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "type": "commonjs"
+}
